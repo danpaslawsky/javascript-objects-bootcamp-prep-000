@@ -1,6 +1,6 @@
 var playlist = {artist, song};
 
-Object.assign();
+Object.assign({}, );
 
 
 
