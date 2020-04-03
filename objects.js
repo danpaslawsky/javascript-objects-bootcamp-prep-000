@@ -1,6 +1,7 @@
 var playlist = {};
+const atrist;
 
-Object.assign({}, artist, song);
+Object.assign();
 
 
 
