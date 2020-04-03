@@ -1,6 +1,6 @@
 var playlist = {
-  2pac:""
-}
+  Tupac:"All Eyes"
+};
 
 
 
