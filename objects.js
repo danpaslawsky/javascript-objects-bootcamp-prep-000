@@ -1,4 +1,7 @@
-var playlist = {};
+var playlist = {
+ atrist:,
+ song:
+}
 
 
 
