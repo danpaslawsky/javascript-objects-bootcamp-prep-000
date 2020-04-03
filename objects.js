@@ -1,7 +1,4 @@
-var playlist = {
- atrist:,
- song:
-}
+var playlist = {atrist:,song:}
 
 
 
